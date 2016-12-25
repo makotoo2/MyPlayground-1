@@ -1,0 +1,3 @@
+# Xcode8のPlayground用サンプルファイル
+
+PlaygroundSupportモジュールの基本的な使用方法について解説しています
